@@ -8,7 +8,7 @@
         public string Name
         {
             get { return name; }
-            set { this.name = value; }
+            set { name = value; }
         }
 
         public string ShortName
